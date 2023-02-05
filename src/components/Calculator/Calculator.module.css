@@ -5,7 +5,7 @@ justify-content: center;
 align-items: center;
     }
 .calculator__border {
-border: 6px solid red;
+    border: 20px ridge rgb(92, 32, 32);
 width: 40%;
 height: 70%;
 display: grid;
@@ -22,7 +22,7 @@ grid-template-rows: auto auto auto auto auto auto;
     font-weight: 700;
     display: flex;
 justify-content: right;
-align-items: end;
+align-items: flex-end;
     padding-right: 2px;
     padding-bottom: 10px;
     height: 87%;
@@ -30,7 +30,6 @@ align-items: end;
 }
 @media only screen and (max-width: 900px) {
 .calculator__border {
-        border: 6px solid red;
         width: 70%;
         height: 70%;
 display:grid;

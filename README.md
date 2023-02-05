@@ -14,7 +14,7 @@ Now just clone this git as below :
 
 `Step 3:` npm start
 
-`Step 4:` Open your browser and on https://localhost:3000 the project is live.
+`Step 4:` Open your browser and on http://localhost:3000 the project is live.
 
 
 **Note: Hope [Node JS] is already installed in your PC globally

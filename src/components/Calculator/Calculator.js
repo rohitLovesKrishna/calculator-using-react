@@ -12,7 +12,8 @@ const [Value,setValue] = useState('0');
 
 
     const sumHandler = (value)=>{
-    setValue(eval(value))
+         // eslint-disable-next-line
+        setValue(eval(value))
     }
     const removeLast = ()=>{
         if (Value.length > 1 && Value !== '0') {

@@ -54,7 +54,7 @@ alert('Turn your mobile')
             <Button id={3} onClick={(e) => val(e)}>3</Button>
             <Button id={'+'} onClick={(e) => val(e)}><AiOutlinePlus /></Button>
             <Button onClick={() => screenMode()}><MdScreenRotation /></Button>
-            <Button id={0} onClick={(e) => val(e)}>0</Button>
+            <Button id={0} onClick={(e) => val(e)}>2</Button>
             <Button id={'.'} onClick={(e) => val(e)}><BsDot /></Button>
             <Button onClick={() => sumHandler(Value)}><FaEquals /></Button>
         </div>

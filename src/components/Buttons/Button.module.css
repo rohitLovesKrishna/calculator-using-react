@@ -1,0 +1,16 @@
+.cstmBtn{
+    /* background-image: url('../assests/btnImg.png'); */
+        box-shadow: inset -1px 1px 40px -12px #3dc21b;
+            background-color: beige;
+            border-radius: 28px;
+            border: 1px solid #ffffff;
+            cursor: pointer;
+            color: #191717;
+            font-family: Arial;
+            font-size: 28px;
+            font-weight: bold;
+            text-shadow: -2px 2px 6px #2f6627;
+}
+.cstmBtn:active{
+    transform: scale(0.80);
+}

@@ -6,7 +6,7 @@ Developer: Rohit Ambawata
 Open Editor 'Suggestion: Use - VS Code' and open terminal from left - upper side tabs.
 Now just clone this git as below :
 
-`Step 1:`
+`Step 1:`Copy this and paste it in your terminal: 
  git clone https://github.com/rohitLovesKrishna/calculator-using-react.git
 
 `Step 2:` npm install 

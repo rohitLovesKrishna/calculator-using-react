@@ -9,7 +9,7 @@ import { Button} from '../'
 
 export default function Calculator(props) {
 const [Value,setValue] = useState('0');
-    const [portrait, setPortrait] = useState(true);
+
 
     const sumHandler = (value)=>{
     setValue(eval(value))
